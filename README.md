@@ -1,3 +1,3 @@
 # My first app
 
-This is my app for Github
+This is my app for Github.
